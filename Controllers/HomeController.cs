@@ -6,7 +6,7 @@ namespace test_github.Controllers
     {
         public IActionResult Index()
         {
-            return Ok();
+            return Ok("vacdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddrdahn");
         }
     }
 }
